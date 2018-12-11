@@ -1,0 +1,34 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="AvaloniaSandbox"
+        xmlns:local="clr-namespace:AvaloniaSandbox">
+
+
+  <Window.Styles>
+    <Style Selector="local|MyControl">
+      <Setter Property="Template">
+        <ControlTemplate>
+          <Button Content="{TemplateBinding MyProperty}"></Button>
+        </ControlTemplate>
+      </Setter>
+    </Style>
+    
+  </Window.Styles>
+
+  <Window.Resources>
+    <local:CC x:Key="CC"></local:CC>
+  </Window.Resources>
+  
+  <StackPanel>
+    <TextBlock>Button with converter</TextBlock>
+    <Button Name="Foo" Content="{Binding Foo, Converter={StaticResource CC}}"></Button>
+
+    <TextBlock>Control/StyledProperty without converter</TextBlock>
+    <local:MyControl MyProperty="{Binding Foo}"></local:MyControl>
+
+    <TextBlock>Control/StyledProperty with converter</TextBlock>
+    <local:MyControl MyProperty="{Binding Foo, Converter={StaticResource CC}}"></local:MyControl>
+  </StackPanel>
+
+</Window>

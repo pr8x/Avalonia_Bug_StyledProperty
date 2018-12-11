@@ -1,0 +1,11 @@
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\bin\Debug\netcoreapp2.0\AvaloniaSandbox.deps.json
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\bin\Debug\netcoreapp2.0\AvaloniaSandbox.runtimeconfig.json
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\bin\Debug\netcoreapp2.0\AvaloniaSandbox.runtimeconfig.dev.json
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\bin\Debug\netcoreapp2.0\AvaloniaSandbox.dll
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\bin\Debug\netcoreapp2.0\AvaloniaSandbox.pdb
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\obj\Debug\netcoreapp2.0\AvaloniaSandbox.csprojAssemblyReference.cache
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\obj\Debug\netcoreapp2.0\AvaloniaSandbox.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\obj\Debug\netcoreapp2.0\AvaloniaSandbox.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\obj\Debug\netcoreapp2.0\AvaloniaSandbox.AssemblyInfo.cs
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\obj\Debug\netcoreapp2.0\AvaloniaSandbox.dll
+C:\Users\Luis\source\repos\AvaloniaSandbox\AvaloniaSandbox\obj\Debug\netcoreapp2.0\AvaloniaSandbox.pdb
